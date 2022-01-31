@@ -12,8 +12,8 @@ EG Website: https://elongate.cc/ <br>
 EG Token: https://elongate.cc/token <br>
 EG News: https://news.elongate.cc/<br>
 EG Social Impact: https://elongate.cc/social-impact<br>
-Blockchain Alliance: https://blockchainalliance.gg/ <br>
-Linktree: https://linktr.ee/elongateofficial
+Blockchain Alliance: https://blockchainalliance.gg/ 
+
 # Social Media
 You can also find us on these social media channels
 
