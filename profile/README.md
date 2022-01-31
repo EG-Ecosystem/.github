@@ -6,7 +6,7 @@ We launched the cryptocurrency as a uniting force, and over 450,000 investors gl
 
 Now, we get to work building the tech of the future. From finance to entertainment to human connection, these industries exploit human psychology to extract value. We are pioneering the new social transformation: value placed back in the hands of the creators, profit merged with purpose, and capital delivered to the ones who need it most.
 
-Do good, get crypto. Get crypto, do good. <p> 
+
 # Key Links
 EG Website: https://elongate.cc/ <br>
 EG Token: https://elongate.cc/token <br>
