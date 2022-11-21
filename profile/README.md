@@ -1,5 +1,5 @@
 # The EG Ecosytem
-Bringing SOCIAL MEDIA to SOCIAL IMPACT on a purposeful platform. <p>
+
 Our mission is to leverage community action and blockchain technologies to grow a global movement that defies the status quo and makes profitability intrinsically linked to positive social impact.<p>
 We are a team of dreamers and builders who want the best for our planet's future.
 We launched the cryptocurrency as a uniting force, and over 480,000 investors globally have joined their voices to ours. In less than a year we’ve delivered over $3,700,000 to worthy causes, proving what’s possible when we come together for a common goal. <p>
