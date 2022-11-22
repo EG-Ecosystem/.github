@@ -11,7 +11,7 @@ EG EcoSystem includes: <p>
 * <b>EG Token</b> - A BEP-20 token governed by community working groups with an innovative revenue distribution model. <br>
 * <b>Salesforce Exchange</b> - Fully non-custodial, platform-native wallet management on the world's largest CRM platform.<br>
 * <b>EG Social Impact Portal</b> - View details of our $3.7 Million+ Donations and donate directly to your favoutire charities.<br>
-* <b>Burn Party</b> - A multi-chain community token burn platform, in colloboration with Chainlink.<br>
+* <b>Burn Party</b> - A multi-chain community token burn platform, in collaboration with Chainlink.<br>
 * <b>EG Migrate</b> - A migration portal to upgrade/consolidate V1 tokens to V2 for any project.
 * <b>EG Trade</b> - A Whitelabel Swap UI and charting solution, built on top of PancakeSwap.<br>
 * <b>Gator Gang NFT Collection</b> - Holders receive exclusive perks and access within the EG Ecosystem.<br>
