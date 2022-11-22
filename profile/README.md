@@ -4,11 +4,11 @@ Our mission is to leverage community action and blockchain technologies to grow 
 We are a team of dreamers and builders who want the best for our planet's future.
 We launched the cryptocurrency as a uniting force, and over 480,000 investors globally have joined their voices to ours. In less than a year we’ve delivered over $3,700,000 to worthy causes, proving what’s possible when we come together for a common goal. <p>
 
-EG is a community token. We encourage any developer interested in creating software, widgets, charts or adding utility to the token to reach out to the team. The long term aim for new features is to make it publicly accessible so anyone can see, modify and distribute the code as they see fit. This will attract a wider talent pool to the project. 
+EG is a community token on the Binance Smart Chain. We encourage any developer interested in creating software, widgets, charts or adding utility to the token to reach out to the team. The long term aim for new features is to make it publicly accessible so anyone can see, modify and distribute the code as they see fit. This will attract a wider talent pool to the project. 
 
 EG EcoSystem includes: <p>
 
-* <b>EG Token</b> - A token governed by community working groups with an innovative revenue distribution model. <br>
+* <b>EG Token</b> - A BEP-20 token governed by community working groups with an innovative revenue distribution model. <br>
 * <b>Salesforce Exchange</b> - Fully non-custodial, platform-native wallet management on the world's largest CRM platform.<br>
 * <b>EG Social Impact Portal</b> - View details of our $3.7+ Donations and donate to your favoutire charities.<br>
 * <b>Burn Party</b> - A multi-chain community token burn platform, in colloboration with Chainlink.<br>
