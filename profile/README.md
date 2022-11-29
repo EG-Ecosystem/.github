@@ -21,6 +21,30 @@ EG EcoSystem includes: <p>
 * <b>EG NFT Staking</b> - A platform for staking your Gator Gang NFT and earning rewards from the daily token volume. Coming Soon<br>
 
 
+## Revenue Distribution 
+
+### From HT Platform
+* 15%: EG Token buyback & holder rewards</br>
+* 15%: Social Impact fund</br>
+
+### Fees from EG Crypto Exchange on Salesforce
+* 100%: EG Token buyback & burn
+
+### Revenue Distribution from Burn Party (Token Burns, Advertisements)
+* 100%: EG Token buyback & holder rewards
+
+### Revenue Distribution from Whitelabel EGTrade sales
+* 100%: EG Token buyback & holder rewards
+
+### Revenue Distribution from EG Blockchain Agency
+* 10%: EG Token buyback & holder rewards
+
+### Revenue Distribution from EGSwap (Dex)
+* 0.01% of trading fees collected: EG Token buyback & burn
+
+<hr>
+
+"Holder Rewards" can be token staking rewards, Gator Gang staking rewards, or manual token burns.
 
 # Key Links
 * EG Website: https://elongate.cc/ <br>
