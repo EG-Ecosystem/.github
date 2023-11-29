@@ -1,4 +1,4 @@
-# The EG Ecosytem
+# The EG Ecosystem
 
 Our mission is to leverage community action and blockchain technologies to grow a global movement that defies the status quo and makes profitability intrinsically linked to positive social impact.<p>
 We are a team of dreamers and builders who want the best for our planet's future.
