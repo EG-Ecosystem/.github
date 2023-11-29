@@ -58,6 +58,6 @@ You can also find us on these social media channels
 
 * Twitter: https://twitter.com/elongateog <br>
 * Youtube: https://www.youtube.com/channel/UCDkstMh4GixgbvrkcJuBiuA <br>
-* Telegram: https://t.me/ElonGateChat <br>
+* Telegram: https://t.me/egtokenchat <br>
 * Discord: https://egtoken.io/discord <br>
 
