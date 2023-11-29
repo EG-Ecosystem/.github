@@ -17,7 +17,7 @@ EG EcoSystem includes: <p>
 * <b>Gator Gang NFT Collection</b> - Holders receive exclusive perks and access within the EG Ecosystem.<br>
 * <b>EG Blockchain Agency</b> - A blockchain consultancy to develop any blockchain tech including concept, branding, design, and development.<br>
 * <b>Blockchain Alliance for Global Good</b> - EG is the founder of BAGG. An alliance to unite blockchain and cryptocurrency companies together to incentivize inherent & integrated social impact around the world through joint ventures.<br>
-* <b>EG Swap</b> - EG's very own Decentralised Exchange (DEX) which has a unique trading fee-sharing mechanism for whitelisted projects. Coming Soon<br>
+* <b>EG Swap</b> - EG's very own Decentralised Exchange (DEX) which has a unique trading fee-sharing mechanism for whitelisted projects. <br>
 * <b>EG NFT Staking</b> - A platform for staking your Gator Gang NFT and earning rewards from the daily token volume. Coming Soon<br>
 
 
@@ -40,17 +40,17 @@ EG EcoSystem includes: <p>
 * 10%: EG Token buyback & holder rewards
 
 ### Revenue Distribution from EGSwap (Dex)
-* 0.01% of trading fees collected: EG Token buyback & burn
+* 0.02% of trading fees collected: EG Token buyback & burn
 
 <hr>
 
 "Holder Rewards" can be token staking rewards, Gator Gang staking rewards, or manual token burns.
 
 # Key Links
-* EG Website: https://elongate.cc/ <br>
-* EG Token: https://elongate.cc/token <br>
-* EG News: https://news.elongate.cc/<br>
-* EG Social Impact: https://elongate.cc/social-impact<br>
+* EG Website: https://egtoken.io <br>
+* EG Token: https://egtoken.io/token <br>
+* EG News: https://news.egtoken.io <br>
+* EG Social Impact: https://egtoken.io/social-impact <br>
 * Blockchain Alliance: https://blockchainalliance.gg/ 
 
 # Social Media
@@ -58,9 +58,6 @@ You can also find us on these social media channels
 
 * Twitter: https://twitter.com/elongateog <br>
 * Youtube: https://www.youtube.com/channel/UCDkstMh4GixgbvrkcJuBiuA <br>
-* Reddit: https://www.reddit.com/r/ElonGateToken/ <br>
 * Telegram: https://t.me/ElonGateChat <br>
-* Discord: https://discord.gg/elongate <br>
-* Instagram: https://www.instagram.com/elongate.cc <br>
-* TikTok: https://www.tiktok.com/@elongatetiktok <br>
-* Facebook: https://www.facebook.com/elongate.cc
+* Discord: https://egtoken.io/discord <br>
+
