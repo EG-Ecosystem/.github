@@ -1,46 +1,45 @@
 # The EG Ecosystem
 
-Our mission is to leverage community action and blockchain technologies to grow a global movement that defies the status quo and makes profitability intrinsically linked to positive social impact.<p>
+$EG serves as the utility token of the EG Ecosystem, striving to drive crypto adoption into the mainstream by developing innovative products<p>
 We are a team of dreamers and builders who want the best for our planet's future.
 We launched the cryptocurrency as a uniting force, and over 480,000 investors globally have joined their voices to ours. In less than a year we’ve delivered over $3,700,000 to worthy causes, proving what’s possible when we come together for a common goal. <p>
 
-EG is a community token on the Binance Smart Chain. We encourage any developer interested in creating software, widgets, charts or adding utility to the token to reach out to the team. The long term aim for new features is to make it publicly accessible so anyone can see, modify and distribute the code as they see fit. This will attract a wider talent pool to the project. 
-
 EG EcoSystem includes: <p>
 
-* <b>EG Token</b> - A BEP-20 token governed by community working groups with an innovative revenue distribution model. <br>
+* <b>EG Token</b> - A BEP-20 token governed by community working groups with an innovative revenue distribution model. <be>
+* <b>EGSwap</b> - A multichain decentralised exchange (DEX) which has a unique trading fee-sharing mechanism for whitelisted projects. <br>
+* <b>EGSpectre </b> - Private Transactions & Cross Chain Bridge that supports 25+ Blockchains and 100s of tokens with market leading prices. Also available as a Telegram bot. <br>
 * <b>Salesforce Exchange</b> - Fully non-custodial, platform-native wallet management on the world's largest CRM platform.<br>
 * <b>EG Social Impact Portal</b> - View details of our $3.7 Million+ Donations and donate directly to your favoutire charities.<br>
 * <b>Burn Party</b> - A multi-chain community token burn platform, in collaboration with Chainlink.<br>
+* <b>HeadsTails</b> - A BetFi platform where you can use $EG and Stabelcoins to predict world events and win amazing prizes.<br>
 * <b>EG Migrate</b> - A migration portal to upgrade/consolidate V1 tokens to V2 for any project.
-* <b>EG Trade</b> - A Whitelabel Swap UI and charting solution, built on top of PancakeSwap.<br>
-* <b>Gator Gang NFT Collection</b> - Holders receive exclusive perks and access within the EG Ecosystem.<br>
+* <b>EGTrade</b> - A Whitelabel Swap UI and charting solution, built on top of PancakeSwap.<br>
+* <b>EGRamp</b> - Buy Crypto with Credit & Debit cards.<br>
+* <b>Gator Gang NFT Collection</b> - Holders receive exclusive perks and access within the EG Ecosystem.<be>
+* <b>EG NFT Staking</b> - A platform for staking your Gator Gang NFT and earning rewards from the daily token volume.<br>
 * <b>EG Blockchain Agency</b> - A blockchain consultancy to develop any blockchain tech including concept, branding, design, and development.<br>
 * <b>Blockchain Alliance for Global Good</b> - EG is the founder of BAGG. An alliance to unite blockchain and cryptocurrency companies together to incentivize inherent & integrated social impact around the world through joint ventures.<br>
-* <b>EG Swap</b> - EG's very own Decentralised Exchange (DEX) which has a unique trading fee-sharing mechanism for whitelisted projects. <br>
-* <b>EG NFT Staking</b> - A platform for staking your Gator Gang NFT and earning rewards from the daily token volume. Coming Soon<br>
 
 
 ## Revenue Distribution 
 
-### From HT Platform
-* 15%: EG Token buyback & holder rewards</br>
-* 15%: Social Impact fund</br>
+### Revenue Distribution from EGSwap (Dex)
+* 0.02% of trading fees collected
+* Revenue from Banner ads.
+* Revenue from EGSpectre.
+* Revenue from EGRamp.
+* Used for EG Token buyback & burn.
 
 ### Fees from EG Crypto Exchange on Salesforce
 * 100%: EG Token buyback & burn
 
-### Revenue Distribution from Burn Party (Token Burns, Advertisements)
-* 100%: EG Token buyback & holder rewards
-
-### Revenue Distribution from Whitelabel EGTrade sales
-* 100%: EG Token buyback & holder rewards
-
 ### Revenue Distribution from EG Blockchain Agency
 * 10%: EG Token buyback & holder rewards
 
-### Revenue Distribution from EGSwap (Dex)
-* 0.02% of trading fees collected: EG Token buyback & burn
+### From HeadsTails Platform
+* 15%: EG Token buyback & holder rewards</br>
+* 15%: Social Impact fund</br>
 
 <hr>
 
