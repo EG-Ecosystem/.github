@@ -1,8 +1,6 @@
 # The EG Ecosystem
 
 $EG serves as the utility token of the EG Ecosystem, striving to drive crypto adoption into the mainstream by developing innovative products<p>
-We are a team of dreamers and builders who want the best for our planet's future.
-We launched the cryptocurrency as a uniting force, and over 480,000 investors globally have joined their voices to ours. In less than a year we’ve delivered over $3,700,000 to worthy causes, proving what’s possible when we come together for a common goal. <p>
 
 EG EcoSystem includes: <p>
 
